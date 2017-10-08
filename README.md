@@ -1,3 +1,11 @@
+# sklearn & kaggle
+
+For this week, well be doing something a little different.  We are going to use a nice data science challenge from Kaggle.  To understand how well we do, we will also use an evaluation metric called the ROC.  To learn about the ROC, pleased: 
+
+Listen to this episode of the linear digressions podcast: [Rock the ROC Curve](http://lineardigressions.com/episodes/2017/1/29/rock-the-roc-curve)
+
+And as you get ready to launch your project, you may want to ponder what you can do with data science. 
+
 # What can I do with Data Science? 
 
 Now that we're getting to the core tool we'll use, scikit learn, it's worth reviewing what we can do with this tool.  The heart of data science involves predictive algorithms.  Can we predict some outcome in the future? There are a few types of things that flow fairly easily and directly from this: 
